@@ -109,7 +109,7 @@ main section {
 .principal--ejecutivo {
     width: 570px;
     height: 717px;
-    background: url(/img/fondo-ejecutivo.png), var(--color-primario1) -145.177px -94.632px / 171.868% 204.896% no-repeat;
+    background: url(img/fondo-ejecutivo.png), var(--color-primario1) -145.177px -94.632px / 171.868% 204.896% no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
